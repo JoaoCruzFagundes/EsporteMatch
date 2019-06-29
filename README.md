@@ -25,7 +25,7 @@ Desenvolvimento em Java usando JDBC, com integração no MySQL para o Banco de D
   * IDE com pacidade de rodar Java.
   * Mysql (ou similar) na maquina.
  
-* __Rodando__
+* __Executando__
   * Importe o projeto para seu IDE de preferencia.
   * Vá ate a pasta pegue o arquivo Projeto.sql e rode no Workbench que preferir.
   * Rode no seu IDE.
