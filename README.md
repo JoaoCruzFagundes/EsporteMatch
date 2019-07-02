@@ -1,8 +1,8 @@
-# EsporteMach
+# EsporteMatch
 
 Projeto de desenvolvimento para o projeto integrador de Linguagem de Programação I e Banco de Dados I, com o objetivo de desenvolver uma aplicação nova para o mercado de aplicativos atual.
 
-O EsporteMach é uma Rede Social focada para pessoas que praticam esportes de forma amadora. Funcionalidades com o objetivo de dinamizar o processo de preparação de uma partida de esporte.
+O EsporteMatch é uma Rede Social focada para pessoas que praticam esportes de forma amadora. Funcionalidades com o objetivo de dinamizar o processo de preparação de uma partida de esporte.
 
 # Tecnologias Usadas 
 
