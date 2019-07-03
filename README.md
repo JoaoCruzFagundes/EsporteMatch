@@ -5,7 +5,10 @@ Projeto de desenvolvimento para o projeto integrador de Linguagem de Programaç�
 O EsporteMatch é uma Rede Social focada para pessoas que praticam esportes de forma amadora. Funcionalidades com o objetivo de dinamizar o processo de preparação de uma partida de esporte.
 
 #Tópicos
- * [Tecnologias-Usadas] (#tecnologias-usadas)
+ * [Tecnologias Usadas](#tecnologias-usadas)
+ * [Funcionalidades](#funcionalidades)
+ * [Instalação](#instalação)
+ 
 
 # Tecnologias Usadas 
 
