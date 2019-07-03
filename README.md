@@ -4,17 +4,17 @@ Projeto de desenvolvimento para o projeto integrador de Linguagem de Programaç�
 
 O EsporteMatch é uma Rede Social focada para pessoas que praticam esportes de forma amadora. Funcionalidades com o objetivo de dinamizar o processo de preparação de uma partida de esporte.
 
-# Tópicos
+## Tópicos
  * [Tecnologias Usadas](#tecnologias-usadas)
  * [Funcionalidades](#funcionalidades)
  * [Instalação](#instalação)
  
 
-# Tecnologias Usadas 
+## Tecnologias Usadas 
 
 Desenvolvimento em Java usando JDBC, com integração no MySQL para o Banco de Dados.
 
-# Funcionalidades
+## Funcionalidades
 
 * __Relizar Cadastro:__ Cadastrar um Usuario entrando com os dados bases requisitados 
 
@@ -24,7 +24,7 @@ Desenvolvimento em Java usando JDBC, com integração no MySQL para o Banco de D
 
 * __Avaliações:__ Após cada partida encerrada deve ocorrer uma dupla avaliação sendo o usuario avalia o time em questão e o usuario clube avalia os jogadores que participaram. Avaliações de ambos é com base em dois aspectos: Conduta e Desempenho.
 
-# Instalação
+## Instalação
 
 * __Requisitos__
   * Java 8 presente na maquina de instalação.
